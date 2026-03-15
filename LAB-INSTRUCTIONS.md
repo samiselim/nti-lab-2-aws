@@ -460,26 +460,30 @@ Expected health response:
 
 | Student | Name | Port | URL |
 |---------|------|------|-----|
-| Student 1 | | 3001 | `http://EC2_IP:3001` |
-| Student 2 | | 3002 | `http://EC2_IP:3002` |
-| Student 3 | | 3003 | `http://EC2_IP:3003` |
-| Student 4 | | 3004 | `http://EC2_IP:3004` |
-| Student 5 | | 3005 | `http://EC2_IP:3005` |
-| Student 6 | | 3006 | `http://EC2_IP:3006` |
-| Student 7 | | 3007 | `http://EC2_IP:3007` |
-| Student 8 | | 3008 | `http://EC2_IP:3008` |
-| Student 9 | | 3009 | `http://EC2_IP:3009` |
-| Student 10 | | 3010 | `http://EC2_IP:3010` |
-| Student 11 | | 3011 | `http://EC2_IP:3011` |
-| Student 12 | | 3012 | `http://EC2_IP:3012` |
-| Student 13 | | 3013 | `http://EC2_IP:3013` |
-| Student 14 | | 3014 | `http://EC2_IP:3014` |
-| Student 15 | | 3015 | `http://EC2_IP:3015` |
-| Student 16 | | 3016 | `http://EC2_IP:3016` |
-| Student 17 | | 3017 | `http://EC2_IP:3017` |
-| Student 18 | | 3018 | `http://EC2_IP:3018` |
-| Student 19 | | 3019 | `http://EC2_IP:3019` |
-| Student 20 | | 3020 | `http://EC2_IP:3020` |
+| Sondos | | 3001 | `http://EC2_IP:3001` |
+| Reem   | |3002 | `http://EC2_IP:3002` |
+| Nada   | | 3003 | `http://EC2_IP:3003` |
+| Ledia  | | 3004 | `http://EC2_IP:3004` |
+| Manar  | | 3005 | `http://EC2_IP:3005` |
+| Israa  | | 3006 | `http://EC2_IP:3006` |
+| Raneem | | 3007 | `http://EC2_IP:3007` |
+| Hazem Emad  | | 3008 | `http://EC2_IP:3008` |
+| Hazem El-Nashar | | 3009 | `http://EC2_IP:3009` |
+| Nour | | 3010 | `http://EC2_IP:3010` |
+| Eslam | | 3011 | `http://EC2_IP:3011` |
+| Mostafa Ahmed | | 3012 | `http://EC2_IP:3012` |
+| Ahmed Hussien  | | 3013 | `http://EC2_IP:3013` |
+| Abdullah  | | 3014 | `http://EC2_IP:3014` |
+| Baraa | | 3015 | `http://EC2_IP:3015` |
+| Mohamed El-Sayed | | 3016 | `http://EC2_IP:3016` |
+| Mahmoud Reda | | 3017 | `http://EC2_IP:3017` |
+| Mostafa Mahmoud | | 3018 | `http://EC2_IP:3018` |
+| El Gazzar | | 3019 | `http://EC2_IP:3019` |
+| Kiro | | 3020 | `http://EC2_IP:3020` |
+| Raouf | | 3016 | `http://EC2_IP:3016` |
+| Khaled | | 3017 | `http://EC2_IP:3017` |
+| Hosny | | 3018 | `http://EC2_IP:3018` |
+| 3lwan | | 3019 | `http://EC2_IP:3019` |
 
 > 📝 **Instructor:** Fill in student names and share the EC2_IP before the lab.
 
