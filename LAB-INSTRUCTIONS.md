@@ -485,6 +485,7 @@ Expected health response:
 | Hosny | | 3018 | `http://EC2_IP:3018` |
 | 3lwan | | 3019 | `http://EC2_IP:3019` |
 | Mahmoud Adel | | 3020 | `http://EC2_IP:3019` |
+| Ismaeil  | | 3019 | `http://EC2_IP:3019` |
 
 > 📝 **Instructor:** Fill in student names and share the EC2_IP before the lab.
 
